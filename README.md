@@ -1,6 +1,6 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/SeamusMullan/SeamusMullan/master/readme_header.png "Header")](https://)
+<!-- [![Header](https://raw.githubusercontent.com/SeamusMullan/SeamusMullan/master/readme_header.png "Header")](https://) -->
 
 # Hey Everyone! <img src="https://raw.githubusercontent.com/SeamusMullan/SeamusMullan/master/wave.gif" width="30px">
 
@@ -11,7 +11,7 @@ Some of the things I am working on are:
 
 - A Horror Game made in Unreal Engine 4
 - A Portal-Like game made in Unity
-- An Audio Effect plugin called [Vocal](Eliminator) which will be coming out soon (Hopefully)
+- An Audio Effect plugin called **Eliminator** which will be coming out soon (Hopefully)
 - An OSINT Tool called CherryBomb made in Python using a bunch of APIs and request functions!
 - A Discord Bot that creates graphs based on StockX data.
 - And a bunch of other things that I would like to finish!
