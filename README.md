@@ -16,7 +16,14 @@ Some of the things I am working on are:
 - A Discord Bot that creates graphs based on StockX data.
 - And a bunch of other things that I would like to finish!
 
-My hobbies are playing and making Video Games, Programming and Music Production.
+My hobbies are playing and making Video Games, Programming and Music Production as you can probably tell by now, but i also like to take apart and rebuild old electronics that I own to try and learn more about how they work.
+
+## Social Media
+#### I'm Most Active on Discord!
+- Discord - 24Carrrot#1234
+- [Instagram](https://www.instagram.com/seamo.m/)
+- [LinkedIn] (https://www.linkedin.com/in/seamusmullan/)
+- [SoundCloud](https://soundcloud.com/24Carrrot)
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Main_Language-Python-informational?style=for-the-badge&color=2bbc8a)
 ![](https://img.shields.io/badge/DAW-Ableton-ffffff?style=for-the-badge)
@@ -30,8 +37,3 @@ My hobbies are playing and making Video Games, Programming and Music Production.
 <a href="https://github.com/SeamusMullan/SeamusMullan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SeamusMullan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Seamus' GitHub Stats" />
 </a>
-
-<!-- links to social media-->
-
-[1]: https://github.com/seamusmullan
-[2]: https://www.linkedin.com/in/seamusmullan/
