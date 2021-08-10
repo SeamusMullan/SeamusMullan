@@ -22,7 +22,7 @@ My hobbies are playing and making Video Games, Programming and Music Production 
 #### I'm Most Active on Discord!
 - Discord - 24Carrrot#1234
 - [Instagram](https://www.instagram.com/seamo.m/)
-- [LinkedIn] (https://www.linkedin.com/in/seamusmullan/)
+- [LinkedIn](https://www.linkedin.com/in/seamusmullan/)
 - [SoundCloud](https://soundcloud.com/24Carrrot)
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Main_Language-Python-informational?style=for-the-badge&color=2bbc8a)
