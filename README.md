@@ -2,16 +2,24 @@
 
 [![Header](https://raw.githubusercontent.com/SeamusMullan/SeamusMullan/master/readme_header.png "Header")](https://)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/SeamusMullan/SeamusMullan/master/wave.gif" width="30px">
+# Hey Everyone! <img src="https://raw.githubusercontent.com/SeamusMullan/SeamusMullan/master/wave.gif" width="30px">
 
-Hi! My name is Seamus Mullan and I am a Secondary School Student in Lucan Community College and I am currently in 5th Year.
+Hello! My name is Seamus Mullan and I am a Secondary School Student in Lucan Community College and I am currently in 5th Year.
 
-I am currently working on a horror game with some friends github link to the game is [here](https://github.com/VibeCornerGames/SCP-Infinity) and an audio effect plugin called Eliminator. Some of my other projects are listed below.
+I am currently working on a bunch of my projects and I am also learning a lot about programming and how to use Git and GitHub.
+Some of the things I am working on are:
+
+- A Horror Game made in Unreal Engine 4
+- A Portal-Like game made in Unity
+- An Audio Effect plugin called [Vocal](Eliminator) which will be coming out soon (Hopefully)
+- An OSINT Tool called CherryBomb made in Python using a bunch of APIs and request functions!
+- A Discord Bot that creates graphs based on StockX data.
+- And a bunch of other things that I would like to finish!
 
 My hobbies are playing and making Video Games, Programming and Music Production.
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Main_Language-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DAW-Ableton-ffffff?style=for-the-badge)  
+![](https://img.shields.io/badge/Main_Language-Python-informational?style=for-the-badge&color=2bbc8a)
+![](https://img.shields.io/badge/DAW-Ableton-ffffff?style=for-the-badge)
 ![](https://img.shields.io/badge/Game_Engine-Unity-informational?style=for-the-badge)
 ![](https://img.shields.io/badge/Game_Engine-Unreal_Engine-informational?style=for-the-badge)
 ## &#x1f4c8; GitHub Stats
