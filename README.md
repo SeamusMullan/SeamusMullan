@@ -9,14 +9,12 @@ Hello! My name is Seamus Mullan and I am a Secondary School Student in Lucan Com
 I am currently working on a bunch of my projects and I am also learning a lot about programming and how to use Git and GitHub.
 Some of the things I am working on are:
 
-- A Horror Game made in Unreal Engine 4
-- A Portal-Like game made in Unity
-- An Audio Effect plugin called **Eliminator** which will be coming out soon (Hopefully)
-- An OSINT Tool called CherryBomb made in Python using a bunch of APIs and request functions!
-- A Discord Bot that creates graphs based on StockX data.
+- A Horror Game made in Unreal Engine 4 / 5
+- An OSINT Tool called CherryBomb made in Python using a bunch of APIs!
+- Security tools for use in schools to teach student and teachers about the dangers of the internet.
 - And a bunch of other things that I would like to finish!
 
-My hobbies are playing and making Video Games, Programming and Music Production as you can probably tell by now, but i also like to take apart and rebuild old electronics that I own to try and learn more about how they work.
+My hobbies are playing and making Video Games, Programming and Music Production as you can probably tell by now, but I also like to take apart and rebuild old electronics that I own to try and learn more about how they work and the design process behind them.
 
 ## Social Media
 #### I'm Most Active on Discord!
