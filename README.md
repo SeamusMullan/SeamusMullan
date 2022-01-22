@@ -26,7 +26,6 @@ My hobbies are playing and making Video Games, Programming and Music Production,
 ![](https://img.shields.io/badge/Main_Language-Python-informational?style=for-the-badge&color=2bbc8a)
 ![](https://img.shields.io/badge/DAW-Ableton-ffffff?style=for-the-badge)
 ![](https://img.shields.io/badge/Game_Engine-Unity-informational?style=for-the-badge)
-![](https://img.shields.io/badge/Game_Engine-Unreal_Engine-informational?style=for-the-badge)
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/SeamusMullan/SeamusMullan">
