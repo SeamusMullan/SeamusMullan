@@ -12,7 +12,7 @@ Some of the things I am working on are:
 - A Horror Game made in Unity inspired by the [SCP Foundation](https://scp-wiki.wikidot.com) and [SCP:Containment Breach](https://scpcbgame.com)
 - An OSINT Tool called LAMBDA made in Python that can be used for ethical hacking!
 - Some Discord bots that integrate with APIs and apps like Inspirobot and StockX
-- And a bunch of other things that I would like to finish for fun like Discord and Instagram bots!
+- And a bunch of other things that I would like to finish for fun like personal projects!
 
 My hobbies are playing and making Video Games, Programming and Music Production, but I also like to take apart and rebuild old electronics that I own to try and learn more about how they work and the design process behind them. My favourite Video Game has to be Portal since it's one of the first video games I've ever played!
 
