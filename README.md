@@ -4,13 +4,14 @@
 
 # Hey Everyone! <img src="https://raw.githubusercontent.com/SeamusMullan/SeamusMullan/master/wave.gif" width="30px">
 
-Hello! My name is Seamus Mullan and I am a Secondary School Student in Lucan Community College and I am currently in 5th Year.
+Hello! My name is Seamus Mullan and I am a Secondary School Student in Lucan Community College and I am currently in 6th Year.
 
 I am currently working on a bunch of my projects and I am also learning a lot about programming and how to use Git and GitHub.
 Some of the things I am working on are:
 
-- Trajan's Mods for minecraft (Tanks, Guns, Etc.)
-- My own brewing mod for minecraft
+- My Own websites / Portfolios
+- Some small desktop apps made in PyQt
+- A VST Plugin and Audio Software Business
 - Some other cool projects in Python and C++
 
 My hobbies are playing and making Video Games, Programming and Music Production, but I also like to take apart and rebuild old electronics that I own to try and learn more about how they work and the design process behind them. My favourite Video Game has to be Portal since it's one of the first video games I've ever played!
