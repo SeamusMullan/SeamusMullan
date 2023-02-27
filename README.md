@@ -6,12 +6,12 @@
 
 Hello! My name is Seamus Mullan and I am a Secondary School Student in Lucan Community College and I am currently in 6th Year.
 
-I am currently working on a bunch of my projects and I am also learning a lot about programming and how to use Git and GitHub.
+I am currently working on a bunch of my projects and I am also learning a lot about programming and DSP.
 Some of the things I am working on are:
 
-- My Own websites / Portfolios
+- My Own Audio Software Business (Direkt Software)
+- A bunch of VST Effect Plugins
 - Some small desktop apps made in PyQt
-- A VST Plugin and Audio Software Business
 - Some other cool projects in Python and C++
 
 My hobbies are playing and making Video Games, Programming and Music Production, but I also like to take apart and rebuild old electronics that I own to try and learn more about how they work and the design process behind them. My favourite Video Game has to be Portal since it's one of the first video games I've ever played!
