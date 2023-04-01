@@ -9,10 +9,10 @@ Hello! My name is Seamus Mullan and I am a Secondary School Student in Lucan Com
 I am currently working on a bunch of my projects and I am also learning a lot about programming and DSP.
 Some of the things I am working on are:
 
-- My Own Audio Software Business (Direkt Software)
-- A bunch of VST Effect Plugins
-- Some small desktop apps made in PyQt
-- Some other cool projects in Python and C++
+- My Own Audio Software Business (DirektDSP)
+- A bunch of VST Effect Plugins (Hot Potato and More!) -- https://direktdsp.com
+- Some small apps and chrome extensions
+- Some other cool projects in Python, C++ and Javascript!
 
 My hobbies are playing and making Video Games, Programming and Music Production, but I also like to take apart and rebuild old electronics that I own to try and learn more about how they work and the design process behind them. My favourite Video Game has to be Portal since it's one of the first video games I've ever played!
 
