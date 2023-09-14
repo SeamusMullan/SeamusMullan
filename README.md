@@ -21,7 +21,7 @@ My hobbies range from general programming and video games to artistic things lik
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Main_Language-Python-informational?style=for-the-badge&color=2bbc8a)
 ![](https://img.shields.io/badge/DAW-Ableton-ffffff?style=for-the-badge)
-![](https://img.shields.io/badge/DAW-FL%20Studio-ffffff?style=for-the-badge)
+![](https://img.shields.io/badge/DAW-FLStudio-ffffff?style=for-the-badge)
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/SeamusMullan/SeamusMullan">
