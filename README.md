@@ -2,28 +2,26 @@
 
 # Hey Everyone! <img src="https://raw.githubusercontent.com/SeamusMullan/SeamusMullan/master/wave.gif" width="30px">
 
-Hello! My name is Seamus Mullan and I am a Secondary School Student in Lucan Community College and I am currently in 6th Year.
-
-I am currently working on a bunch of my projects and I am also learning a lot about programming and DSP.
+Hello! My name is Seamus Mullan and I'm a College Student in Maynooth University
+I am currently working on a bunch of my projects and I am also learning a lot about programming, DSP and web development.
 Some of the things I am working on are:
 
 - My Own Audio Software Business (DirektDSP)
-- A bunch of VST Effect Plugins (Hot Potato and More!) -- https://direktdsp.com
-- Some small apps and chrome extensions
+ - A bunch of VST Effect Plugins (Hot Potato and More!) -- https://direktdsp.com
+- Some small apps and websites
 - Some other cool projects in Python, C++ and Javascript!
 
-My hobbies are playing and making Video Games, Programming and Music Production, but I also like to take apart and rebuild old electronics that I own to try and learn more about how they work and the design process behind them. My favourite Video Game has to be Portal since it's one of the first video games I've ever played!
+My hobbies range from general programming and video games to artistic things like music production and sketching. I'm pretty versatile when it comes to things and like to think that I take a ***Jack of all trades, master of one*** approach to my interests.
 
 ## Social Media
 #### I'm Most Active on Discord!
 - Discord - 24Carrrot#1234
 - [Instagram](https://www.instagram.com/seamo.m/)
 - [LinkedIn](https://www.linkedin.com/in/seamusmullan/)
-- [SoundCloud](https://soundcloud.com/24Carrrot)
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Main_Language-Python-informational?style=for-the-badge&color=2bbc8a)
 ![](https://img.shields.io/badge/DAW-Ableton-ffffff?style=for-the-badge)
-![](https://img.shields.io/badge/Game_Engine-Unity-informational?style=for-the-badge)
+![](https://img.shields.io/badge/DAW-FL%20Studio-ffffff?style=for-the-badge)
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/SeamusMullan/SeamusMullan">
