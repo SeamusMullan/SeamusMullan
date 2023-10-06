@@ -2,21 +2,20 @@
 
 # Hey Everyone! <img src="https://raw.githubusercontent.com/SeamusMullan/SeamusMullan/master/wave.gif" width="30px">
 
-Hello! My name is Seamus Mullan and I'm a College Student in Maynooth University
+Hello! My name is Seamus Mullan and I'm a College Student in Maynooth University (Bachelor of Science, Majority Computer Science)
 I am currently working on a bunch of my projects and I am also learning a lot about programming, DSP and web development.
 Some of the things I am working on are:
 
 - My Own Audio Software Business (DirektDSP)
- - A bunch of VST Effect Plugins (Hot Potato and More!) -- https://direktdsp.com
-- Some small apps and websites
-- Some other cool projects in Python, C++ and Javascript!
+ - A bunch of VST Effect Plugins (Hot Potato / Fuzzboy) -- https://direktdsp.com
+ - Source code is available through the website!
+- OSINT Automation in Python (See my CherryBomb Repo!)
 
 My hobbies range from general programming and video games to artistic things like music production and sketching. I'm pretty versatile when it comes to things and like to think that I take a ***Jack of all trades, master of one*** approach to my interests.
 
 ## Social Media
 #### I'm Most Active on Discord!
-- Discord - 24Carrrot#1234
-- [Instagram](https://www.instagram.com/seamo.m/)
+- Discord - 24Carrrot
 - [LinkedIn](https://www.linkedin.com/in/seamusmullan/)
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Main_Language-Python-informational?style=for-the-badge&color=2bbc8a)
