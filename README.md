@@ -4,14 +4,14 @@
 
 Hello! My name is Seamus Mullan and I'm a College Student in Maynooth University (Bachelor of Science, Majority Computer Science)
 I am currently working on a bunch of my projects and I am also learning a lot about programming, DSP and web development.
-Some of the things I am working on are:
+**Some of the things I am working on are:**
 
 - My Own Audio Software Business (DirektDSP)
  - A bunch of VST Effect Plugins (Hot Potato / Fuzzboy) -- https://direktdsp.com
  - Source code is available through the website!
 - OSINT Automation in Python (See my CherryBomb Repo!)
 
-My hobbies range from general programming and video games to artistic things like music production and sketching. I'm pretty versatile when it comes to things and like to think that I take a ***Jack of all trades, master of one*** approach to my interests.
+My hobbies range from general programming and video games to artistic things like music production and sketching. I'm pretty versatile when it comes to skills and like to think that I take a ***Jack of all trades, master of a few*** approach to my interests which allows me to get a **lot*** of perspective in my projects.
 
 ## Social Media
 #### I'm Most Active on Discord!
