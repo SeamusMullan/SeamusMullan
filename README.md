@@ -1,6 +1,6 @@
 <!-- [![Header](https://raw.githubusercontent.com/SeamusMullan/SeamusMullan/master/readme_header.png "Header")](https://) -->
 
-# Hey Everyone! <img src="https://raw.githubusercontent.com/SeamusMullan/SeamusMullan/master/wave.gif" width="30px">
+# Hey Everyone! <img src="https://github.com/SeamusMullan/SeamusMullan/blob/main/wave.gif?raw=true" width="30px">
 
 Hello! My name is Seamus Mullan and I'm a College Student in Maynooth University (Bachelor of Science, Majority Computer Science)
 I am currently working on a bunch of my projects and I am also learning a lot about programming, DSP and web development.
