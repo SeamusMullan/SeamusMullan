@@ -24,4 +24,10 @@ My hobbies range from general programming and video games to artistic things lik
 ![](https://img.shields.io/badge/DAW-FLStudio-ffffff?style=for-the-badge)
 ## &#x1f4c8; GitHub Stats
 
-https://camo.githubusercontent.com/98b67e307b87af6c0c2ec530980be8d2e3f094b6068703f7a2ddaf4b751a6333/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612672616e6b5f69636f6e3d676974687562
+
+<a href="https://github.com/seamusmullan/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=seamusmullan&hide_rank=true" />
+</a>
+<a href="https://github.com/seamusmullan/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seamusmullan&layout=compact&langs_count=8&card_width=320" />
+</a>
