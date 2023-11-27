@@ -9,7 +9,7 @@ I am currently working on a bunch of my projects and I am also learning a lot ab
 - My Own Audio Software Business (DirektDSP)
   - A bunch of VST Effect Plugins (Hot Potato / Fuzzboy) -- https://direktdsp.com
   - Source code is available through the website!
-- OSINT Automation in Python (See my CherryBomb Repo!)
+- Some ports for Minecraft Mods (Still working on some of these)
 
 My hobbies range from general programming and video games to artistic things like music production and sketching. I'm pretty versatile when it comes to skills and like to think that I take a ***Jack of all trades, master of a few*** approach to my interests which allows me to get a **lot*** of perspective in my projects.
 
