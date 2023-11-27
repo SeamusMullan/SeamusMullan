@@ -25,6 +25,6 @@ My hobbies range from general programming and video games to artistic things lik
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/SeamusMullan/SeamusMullan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeamusMullan&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=SeamusMullan&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3](https://camo.githubusercontent.com/98b67e307b87af6c0c2ec530980be8d2e3f094b6068703f7a2ddaf4b751a6333/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612672616e6b5f69636f6e3d676974687562)https://camo.githubusercontent.com/98b67e307b87af6c0c2ec530980be8d2e3f094b6068703f7a2ddaf4b751a6333/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612672616e6b5f69636f6e3d676974687562" />
 </a>
 
