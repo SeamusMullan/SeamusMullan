@@ -26,7 +26,7 @@ My hobbies range from general programming and video games to artistic things lik
 
 
 <a href="https://github.com/seamusmullan/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=seamusmullan&hide_rank=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=seamusmullan&hide_rank=true&hide=html" />
 </a>
 <a href="https://github.com/seamusmullan/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seamusmullan&layout=compact&langs_count=8&card_width=320" />
