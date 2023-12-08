@@ -20,6 +20,7 @@ My hobbies range from general programming and video games to artistic things lik
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-C++-informational?style=for-the-badge&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Java-informational?style=for-the-badge&color=2bbc8a)
 ![](https://img.shields.io/badge/DAW-Ableton-ffffff?style=for-the-badge)
 ![](https://img.shields.io/badge/DAW-FLStudio-ffffff?style=for-the-badge)
 ## &#x1f4c8; GitHub Stats
