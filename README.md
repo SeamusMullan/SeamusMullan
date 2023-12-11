@@ -14,8 +14,6 @@ I am currently working on a bunch of my projects and I am also learning a lot ab
 My hobbies range from general programming and video games to artistic things like music production and sketching. I'm pretty versatile when it comes to skills and like to gain new insights into almost any science related fields.
 
 ## Social Media
-#### I'm Most Active on Discord!
-- Discord - 24Carrrot
 - [LinkedIn](https://www.linkedin.com/in/seamusmullan/)
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&color=2bbc8a)
