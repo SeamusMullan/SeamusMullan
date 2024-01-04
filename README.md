@@ -21,4 +21,4 @@ My hobbies range from general programming and video games to artistic things lik
 ![](https://img.shields.io/badge/Language-C++-informational?style=for-the-badge&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Java-informational?style=for-the-badge&color=2bbc8a)
 ![](https://img.shields.io/badge/DAW-Ableton-ffffff?style=for-the-badge)
-![](https://img.shields.io/badge/DAW-FL-Studio-ffffff?style=for-the-badge)
+![](https://img.shields.io/badge/DAW-FL_Studio-ffffff?style=for-the-badge)
