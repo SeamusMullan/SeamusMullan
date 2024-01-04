@@ -21,12 +21,3 @@ My hobbies range from general programming and video games to artistic things lik
 ![](https://img.shields.io/badge/Language-Java-informational?style=for-the-badge&color=2bbc8a)
 ![](https://img.shields.io/badge/DAW-Ableton-ffffff?style=for-the-badge)
 ![](https://img.shields.io/badge/DAW-FLStudio-ffffff?style=for-the-badge)
-## &#x1f4c8; GitHub Stats
-
-
-<a href="https://github.com/SeamusMullan">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=seamusmullan&hide_rank=true" />
-</a>
-<a href="https://github.com/SeamusMullan">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seamusmullan&layout=compact&langs_count=8&card_width=320&hide=javascript,html" />
-</a>
