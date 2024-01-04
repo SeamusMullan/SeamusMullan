@@ -3,7 +3,7 @@
 # Hey There! <img src="https://github.com/SeamusMullan/SeamusMullan/blob/main/wave.gif?raw=true" width="30px">
 
 Hello! My name is Seamus Mullan and I'm a College Student in Maynooth University (Bachelor of Science)
-I am currently working on a bunch of my own projects and am also improving my knowledge of Signal Processing and C++.
+I am currently working on a bunch of my own projects and am also improving my knowledge of Signal Processing and C++. \n
 **My most significant project currently is DirektDSP (Audio Software Company)**
   - Source code is available [on GitHub](https://github.com/direktdsp)
 
