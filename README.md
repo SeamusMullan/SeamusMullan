@@ -2,18 +2,19 @@
 
 # Hey There! <img src="https://github.com/SeamusMullan/SeamusMullan/blob/main/wave.gif?raw=true" width="30px">
 
-Hello! My name is Seamus Mullan and I'm a College Student in Maynooth University (Bachelor of Science, Majority Computer Science)
-I am currently working on a bunch of my projects and I am also learning a lot about programming, DSP and web development.
-**Some of the things I am working on are:**
-
-- My Own Audio Software Business (DirektDSP)
-  - VST3 / AU Audio Plugins
+Hello! My name is Seamus Mullan and I'm a College Student in Maynooth University (Bachelor of Science)
+I am currently working on a bunch of my own projects and am also improving my knowledge of Signal Processing and C++.
+**My most significant project currently is DirektDSP (Audio Software Company)**
   - Source code is available [on GitHub](https://github.com/direktdsp)
-- Some ports for Minecraft Mods (Still working on some of these)
+
+**The areas that I work in most include:**
+  - VST3 / AU Audio Plugins
+  - Small video game projects in Unity
+  - Small simulation projects in Processing
 
 My hobbies range from general programming and video games to artistic things like music production and sketching. I'm pretty versatile when it comes to skills and like to gain new insights into almost any science related fields.
 
-## Social Media
+## Social Media / Personal Info
 - [LinkedIn](https://www.linkedin.com/in/seamusmullan/)
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&color=2bbc8a)
