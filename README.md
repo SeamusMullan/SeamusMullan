@@ -7,8 +7,8 @@ I am currently working on a bunch of my projects and I am also learning a lot ab
 **Some of the things I am working on are:**
 
 - My Own Audio Software Business (DirektDSP)
-  - A bunch of VST Effect Plugins (Hot Potato / Fuzzboy) -- https://direktdsp.com
-  - Source code is available through the website!
+  - VST3 / AU Audio Plugins
+  - Source code is available on GitHub @direktdsp
 - Some ports for Minecraft Mods (Still working on some of these)
 
 My hobbies range from general programming and video games to artistic things like music production and sketching. I'm pretty versatile when it comes to skills and like to gain new insights into almost any science related fields.
