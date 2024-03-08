@@ -7,10 +7,11 @@ I'm Seamus Mullan, a dedicated software engineering student at Maynooth Universi
 🌟 **Key Project: DirektDSP (Audio Software Company)**
   - An innovative venture where I design, develop, and release VST3/AU plugins for music production.
   - Explore the source code [on GitHub](https://github.com/direktdsp).
+  - Projects include Guitar Pedal Emulations, Waveshapers and Easy-To-Use Compressors!
 
 **Primary Areas of Expertise:**
   - Crafting VST3 / AU Audio Plugins
-  - Developing engaging video games in Unity
+  - Developing simplistic video games in Unity
   - Undertaking simulation projects using Processing
 
 In addition to my technical endeavors, I enjoy expanding my horizons in various fields, including music production and digital arts. My broad skill set and curiosity drive me to explore and integrate knowledge from diverse scientific and creative domains.
