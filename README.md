@@ -29,6 +29,7 @@ I'm Seamus Mullan, a dedicated software engineering student at Maynooth Universi
 
 ![](https://img.shields.io/badge/Tool-Git%20&%20GitHub-lightblue?style=for-the-badge)
 ![](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-lightblue?style=for-the-badge)
+![](https://img.shields.io/badge/Tool-XCode-lightblue?style=for-the-badge)
 
 ![](https://img.shields.io/badge/DAW-Ableton-ffffff?style=for-the-badge)
 ![](https://img.shields.io/badge/DAW-FL_Studio-ffffff?style=for-the-badge)
