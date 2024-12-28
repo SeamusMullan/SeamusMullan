@@ -2,7 +2,7 @@
 
 # Welcome! <img src="https://github.com/SeamusMullan/SeamusMullan/blob/main/wave.gif?raw=true" width="30px">
 
-I'm Seamus Mullan, a dedicated software engineering student at Maynooth University pursuing a Bachelor of Software Engineering degree. My focus is on harnessing my passion for software development, especially in the realms of audio software and game development. I have a strong passion for creativity and the arts and want to expand them further into our now digital world.
+I'm Seamus Mullan, a dedicated software engineering student at Maynooth University pursuing a Bachelor of Software Engineering degree. My focus is on harnessing my passion for software development, especially in the realms of audio software and signal processing. I have a strong passion for creativity and the arts and want to expand them further into our now digital world.
 
 **Main Project: DirektDSP (Audio Software Company)**
   - I design, develop, and release VST3/AU plugins for music production.
