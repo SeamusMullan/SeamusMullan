@@ -11,9 +11,9 @@ I'm Seamus Mullan, a dedicated software engineering student at Maynooth Universi
 
 **Primary Areas of Interest:**
   - Developing VST3 / AU Audio Plugins
-  - Creating simple video game prototypes in Unity
-  - Messing around with simulation projects (mainly in Processing)
-
+  - Signal Processing / DSP
+  - Audio Software Engineering
+  
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/seamusmullan/)
 
