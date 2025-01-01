@@ -7,7 +7,7 @@ I'm Seamus Mullan, a dedicated software engineering student at Maynooth Universi
 **Main Project: DirektDSP (Audio Software Company)**
   - I design, develop, and release VST3/AU plugins for music production.
   - Projects include Guitar Pedal Emulations, Compressors & Saturators
-  - Currently implementing LPC encoding / decoding to create a real-time [Speak and Spell](https://en.wikipedia.org/wiki/Speak_%26_Spell_(toy)) like vocal effect
+  - Currently implementing a LPC algorithm in C++ to create a real-time [Speak and Spell](https://en.wikipedia.org/wiki/Speak_%26_Spell_(toy)) like vocal effect
 
 **Primary Areas of Interest:**
   - Developing VST3 / AU Audio Plugins
