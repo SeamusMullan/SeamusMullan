@@ -5,7 +5,6 @@
 I'm Seamus Mullan, a dedicated software engineering student at Maynooth University pursuing a Bachelor of Science.
 
 (Computer Science and Software Engineering - MH602)
-
 I'm currently aiming for a 1:1!
 
 
