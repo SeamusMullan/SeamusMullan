@@ -2,7 +2,7 @@
 
 # Welcome! <img src="https://github.com/SeamusMullan/SeamusMullan/blob/main/wave.gif?raw=true" width="30px">
 
-I'm Seamus Mullan, a dedicated software engineering student at Maynooth University pursuing a Bachelor of Software Engineering degree.
+I'm Seamus Mullan, a dedicated software engineering student at Maynooth University pursuing a Bachelor of Science (Computer Science and Software Engineering).
 
 I absolutely love audio software. I have a strong passion for creativity and the arts in general and want to help people create as much as I can.
 
