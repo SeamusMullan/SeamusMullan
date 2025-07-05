@@ -2,18 +2,21 @@
 
 # Welcome! <img src="https://github.com/SeamusMullan/SeamusMullan/blob/main/wave.gif?raw=true" width="30px">
 
-I'm Seamus Mullan, a dedicated software engineering student at Maynooth University pursuing a Bachelor of Software Engineering degree. My focus is on harnessing my passion for software development, especially in the realms of audio software and game development. I have a strong passion for creativity and the arts and want to expand them further into our now digital world.
+I'm Seamus Mullan, a dedicated software engineering student at Maynooth University pursuing a Bachelor of Software Engineering degree.
+
+I absolutely love audio software. I have a strong passion for creativity and the arts in general and want to help people create as much as I can.
 
 **Main Project: DirektDSP (Audio Software Company)**
   - I design, develop, and release VST3/AU plugins for music production.
-  - Projects include Guitar Pedal Emulations, Compressors & Saturators
-  - Working on a simple-to-use multiband distortion plugin
-  - Currently researching LPC algorithms in C++ to create a real-time [Speak and Spell](https://en.wikipedia.org/wiki/Speak_%26_Spell_(toy)) like vocal effect
+  - Developed my own desktop app for creating projects quickly (Juno - in progress)
+  - Worked with popular artists like Korzana to create custom plugins.
+  - Currently losing my mind with CMake xd
 
 **Primary Areas of Interest:**
-  - Developing VST3 / AU Audio Plugins
+  - Audio Software and Music Production
   - Signal Processing / DSP
-  - Audio Software Engineering
+  - Audio in Game Development
+  - Visual Art, Music and Programming
   
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/seamusmullan/)
