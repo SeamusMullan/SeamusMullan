@@ -14,8 +14,8 @@ I absolutely love audio software. I have a strong passion for creativity and the
 **Main Project: DirektDSP (Audio Software Company)**
   - I design, develop, and release VST3/AU plugins for music production.
   - I've released 4 products already and have more coming!
-  - Developed my own desktop app for creating projects quickly (Juno - in progress)
-  - Worked with popular artists like Korzana to create Chasm, a tailor made VST3/AU plugin.
+  - Messing around with SDL3, shaders and video games
+  - Working on a game engine called [X3](https://github.com/haptixxx-dev/X3/)
   - Currently losing my mind with CMake xd
 
 **Primary Areas of Interest:**
