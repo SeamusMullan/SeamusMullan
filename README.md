@@ -21,7 +21,7 @@ I absolutely love audio software. I have a strong passion for creativity and the
 **Primary Areas of Interest:**
   - Audio Software and Music Production
   - Signal Processing / DSP
-  - Audio in Game Development
+  - Automation & Continuous Integration
   - Visual Art, Music and Programming
   
 ## Connect with Me
