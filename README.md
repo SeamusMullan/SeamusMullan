@@ -38,7 +38,7 @@ I absolutely love audio software. I have a strong passion for creativity and the
 ![](https://img.shields.io/badge/Skill-Blender-blueviolet?style=for-the-badge)
 
 ![](https://img.shields.io/badge/Tool-Git%20&%20GitHub-lightblue?style=for-the-badge)
-![](https://img.shields.io/badge/Tool-Jenkins%20&%20GitHub-lightblue?style=for-the-badge)
+![](https://img.shields.io/badge/Tool-Jenkins-lightblue?style=for-the-badge)
 ![](https://img.shields.io/badge/Tool-Visual%20Studio%20Code-lightblue?style=for-the-badge)
 ![](https://img.shields.io/badge/Tool-CMake-lightblue?style=for-the-badge)
 ![](https://img.shields.io/badge/Tool-CI%2FCD-lightblue?style=for-the-badge)
