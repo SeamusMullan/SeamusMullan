@@ -27,7 +27,7 @@ I absolutely love audio software. I have a strong passion for creativity and the
 - [LinkedIn](https://www.linkedin.com/in/seamusmullan/)
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Language-C++%20&20-informational?style=for-the-badge&color=2bbc8a)
+![](https://img.shields.io/badge/Language-C++%2020-informational?style=for-the-badge&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Python-informational?style=for-the-badge&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Groovy-informational?style=for-the-badge&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Java-informational?style=for-the-badge&color=2bbc8a)
